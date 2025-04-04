@@ -39,7 +39,7 @@ A powerful, feature-rich load testing tool for API performance evaluation with a
 ### Setup
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/superabdo-main/B2)
 cd B2
 ```
 
