@@ -85,7 +85,7 @@ print(f"Average Latency: {results['avg_latency']}s")
 
 ### Command Line Interface
 ```bash
-python example_cli.py --url https://api.example.com/endpoint --method GET --requests 100 --threads 4
+python example_cli.py --url https://api.example.com/endpoint --method GET --num-requests 100 --num-threads 4
 ```
 
 ## Test Types
