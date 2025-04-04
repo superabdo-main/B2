@@ -1,0 +1,4 @@
+aiohttp>=3.8.4
+numpy>=1.22.0
+matplotlib>=3.5.0
+click>=8.0.0 
